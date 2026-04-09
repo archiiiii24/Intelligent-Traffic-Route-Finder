@@ -41,23 +41,34 @@ A* Search Algorithm
 
 traffic-route-ai/
 │── main.py
+
 │── a_star.py
+
 │── graph.py
+
 │── utils.py
+
 │── requirements.txt
+
 ▶️ How to Run the Project
 
 
 Install Python (3.x)
+
 Download or clone this repository
+
 Open terminal in project folder
+
 Run the program:
+
 python main.py
+
 Enter start and destination locations when prompted
 
 📊 Example Output
 
 Enter start location: A
+
 Enter destination: E
 
 ✅ Shortest Path Found:
@@ -71,19 +82,25 @@ Total Distance: 5
 Artificial Intelligence (AI)
 
 A* Search Algorithm
+
 Graph Representation
+
 Heuristic Functions
 
 📚 Learning Outcomes
 
 Learned how to implement A* algorithm
+
 Understood graph-based problem solving
+
 Applied AI concepts to real-world scenario
 
 🚀 Future Scope
 
 Real-time traffic data integration
+
 GUI (Graphical Interface)
+
 Map visualization (like Google Maps)
 
 👩‍🎓 Author
